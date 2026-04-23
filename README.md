@@ -1,8 +1,8 @@
 ### 💻 &nbsp;About Me:
 
-I am a Senior Software Engineer from Paris, France 🇫🇷.
+I am a Software Engineer from Paris, France 🇫🇷.
 
-- I'm working as a Backend Developer and Technical Leader
+- I'm working as a Senior Backend Developer, Staff Engineer and Technical Leader
 - In my free time I play guitar [![Youtube Badge](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/user/fabgratte)
 - How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-fabienrecco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabien-recco)
 
